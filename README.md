@@ -1,6 +1,6 @@
 ## About
 A very simple CJS script for connecting to ViewHub stream chat. <p>
-In addition to chat text messages, you can also catch "Subscription" and "Donation" events.
+In addition to chat text messages, you can also catch "Subscription", "Unsub", "Current Viewers" and "Donation" events.
 
 ## How to use
 Since this is javascript, you need `nodejs` and `npm` installed.
