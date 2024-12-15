@@ -17,6 +17,7 @@ And follow the educated link.<p>
 The first line under data -> id is the same `user_id`.<p>
 Insert the user_id name in `const channel = ""`
 
+---
 Run with
 ```
 node viewhub_chat_logger.js
